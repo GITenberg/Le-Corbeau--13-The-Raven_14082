@@ -36,6 +36,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/481
     wikipedia: http://en.wikipedia.org/wiki/Edgar_Allan_Poe
 description: 'See also: #17192 illustrated by Gustave Doré'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14082#Le-Corbeau--13-The-Raven
 gutenberg_bookshelf:
 - Horror
 - FR Poésie
