@@ -1,0 +1,61 @@
+_repo: Le-Corbeau--13-The-Raven_14082
+_version: 0.1.0
+alternative_title: The Raven.  French and English
+contributor:
+  illustrator:
+    agent_name: Manet, Édouard
+    aliases:
+    - Manet, Edouard
+    - Manet, Eduard
+    - Manet, Éduard
+    birthdate: 1832
+    deathdate: 1883
+    gutenberg_agent_id: '6624'
+    url: http://www.gutenberg.org/2009/agents/6624
+    wikipedia: http://en.wikipedia.org/wiki/Édouard_Manet
+  translator:
+    agent_name: Mallarmé, Stéphane
+    aliases:
+    - Mallarmé, Etienne
+    - Mallarme, Stephane
+    birthdate: 1842
+    deathdate: 1898
+    gutenberg_agent_id: '1547'
+    url: http://www.gutenberg.org/2009/agents/1547
+    wikipedia: http://en.wikipedia.org/wiki/St%C3%A9phane_Mallarm%C3%A9
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Poe, Edgar Allan
+    alias: Poe, Edgar Allen
+    birthdate: 1809
+    deathdate: 1849
+    gutenberg_agent_id: '481'
+    url: http://www.gutenberg.org/2009/agents/481
+    wikipedia: http://en.wikipedia.org/wiki/Edgar_Allan_Poe
+description: 'See also: #17192 illustrated by Gustave Doré'
+gutenberg_bookshelf:
+- Horror
+- FR Poésie
+gutenberg_issued: '2004-11-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14082'
+language:
+- en
+- fr
+production_note: Produced by Suzanne Shell, Clare Boothby and the Online Distributed
+  Proofreading Team. This file was produced from images generously made available
+  by the Bibliothèque nationale de France (BnF/Gallica)
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ravens -- Poetry'
+- !lcsh 'Poe, Edgar Allan, 1809-1849 -- Translations into French'
+- !lcc 'PS'
+- !lcsh 'Fantasy poetry, American -- Translations into French'
+title: Le Corbeau = The Raven
+url: http://www.gutenberg.org/ebooks/14082
